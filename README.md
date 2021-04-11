@@ -181,7 +181,7 @@ Universitas Pelita Bangsa
 ```
 ![LANGKAH 8 membuat form](https://user-images.githubusercontent.com/22215113/114301931-07960480-9af1-11eb-8e62-aba524bca4d8.png)
 
-## LANGKAH 8
+## LANGKAH 9
 ### Menambahkan style pada form agar tampilan lebih menarik menggunakan CSS
 ```
     <style>
